@@ -1,0 +1,3 @@
+git config --global user.name "Ha Young AN"
+
+git config --global user.email  anhy@uci.edu
